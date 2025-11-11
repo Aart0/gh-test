@@ -1,1 +1,1 @@
-"# My first GitHub CLI test" 
+# My first GitHub CLI test
